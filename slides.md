@@ -1,6 +1,7 @@
 ---
 theme: default
 colorScheme: dark
+download: true
 ---
 
 # Mars Rover
