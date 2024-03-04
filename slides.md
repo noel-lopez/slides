@@ -551,7 +551,7 @@ private moveForward(): void {
 
 ---
 
-# Refactor - Orientation <!-- <span class="text-purple-300">execute()</span> -->
+# Refactor - Orientation
 
 ````md magic-move
 
