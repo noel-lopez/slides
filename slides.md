@@ -1014,3 +1014,20 @@ export default class Rover {
 
 
 ````
+
+---
+layout: center
+class: text-center
+---
+
+# GRACIAS!! 🚀
+
+<div class="text-2xl">
+Esperamos que os haya gustado nuestro <span class="text-purple-300">approach</span> a la Kata.
+</div>
+
+Si tenéis alguna <span class="text-blue-300">duda</span> no dudéis en preguntar.
+
+Agracedemos cualquier <span class="text-blue-300">feedback</span> que nos podáis dar para mejorar.
+
+Si quereis ver el código completo, lo teneis en <a href="https://github.com/noel-lopez" target="_blank">este enlace</a>.
